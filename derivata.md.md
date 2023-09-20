@@ -7,4 +7,5 @@ Per tasso di cambiamento si intende la misura di quanto il valore della funzione
 
 La derivata di una funzione reale $f:\mathbb{R}\rightarrow\mathbb{R}$ in un punto $x_0$ si definisce come
 
-$$ f^\prime (x_0) = \lim_{h\rightarrow 0} \frac{f(x_0 + h) - f(x_0)}{h} $$
+ leggera modifica del testo 
+ # vediamo che succede
